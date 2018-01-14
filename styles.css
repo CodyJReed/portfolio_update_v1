@@ -77,7 +77,7 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(720deg);
 }
 header .experience-image {
-  margin-top: 50px
+  margin-top: 50px;
   width: 400px;
   height: 200px;
   border: 2px solid black;
